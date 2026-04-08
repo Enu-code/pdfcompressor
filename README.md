@@ -60,20 +60,9 @@
                                                                                      
   ---                                                                                
                                                                                      
-  ## Installation                                                                    
-  ```bash                                                                            
-  # Clone the repo                                                                   
-  git clone https://github.com/berkindev/shrink.git                                  
-                                                                                     
-  # Install dependencies                                                             
-  cd shrink                                                                          
-  npm install                                                                        
-                                                                                     
-  # Run locally                                                                      
-  npm run dev                                                                        
-                                                                                     
-  ---                                                                                
-  Limits                                                                             
+## Credits
+Original project by berkinyilmaz  
+Modified and customized by Enu-code                                                                           
                                                                                      
   - Maximum 100 MB file size per PDF                                                 
                                                                                      
